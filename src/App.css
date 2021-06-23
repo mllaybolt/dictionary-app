@@ -1,3 +1,16 @@
+body {
+  background: #f9f8fe;
+}
+
+a {
+  color: #6c63ff;
+}
+
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 .App-header {
   text-align: center;
   margin: 30px auto;
@@ -7,6 +20,6 @@
 
 footer {
   text-align: center;
-  margin: 30px;
+  margin-top: 20px;
   font-size: 10px;
 }
